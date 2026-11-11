@@ -1,0 +1,9 @@
+{
+  "name": "aq-reboot-fixture-4ff34444",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Disposable AQ reboot-restore fixture. No dependencies.",
+  "scripts": {
+    "dev": "node server.cjs"
+  }
+}
